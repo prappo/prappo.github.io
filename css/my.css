@@ -1,0 +1,64 @@
+@import url(http://fonts.googleapis.com/css?family=Inconsolata);
+html,
+body {
+  background: rgb(22, 22, 22);
+  font-family: 'Inconsolata', sans-serif;
+  font-size:20px;
+}
+
+.wrap {
+  top: 25%;
+  left: 40%;
+  width: 400px;
+  height: 200px;
+  margin-left: -200px;
+  margin-top: -100px;
+  position: absolute;
+  //font-size:20px;
+}
+
+code {
+  color: white;
+}
+
+span.blue {
+  color: #48beef;
+}
+span.begun{
+  color:hsl(310, 80%, 51%);
+  
+}
+span.var{
+  color:#61DA39;
+}
+span.comment {
+  color: #7f8c8d;
+}
+span.func{
+  color:#8597E7;
+}
+span.load {
+  color: #f39c12;
+}
+
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
