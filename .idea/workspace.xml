@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31b21afb-90d8-4e98-b547-4ec6cba1213c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/me.html" afterPath="$PROJECT_DIR$/me.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="prappo.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +26,8 @@
       <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6954315">
-              <caret line="92" column="41" selection-start-line="92" selection-start-column="41" selection-end-line="92" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.78680205">
+              <caret line="100" column="56" selection-start-line="100" selection-start-column="56" selection-end-line="100" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -362,8 +360,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6954315">
-          <caret line="92" column="41" selection-start-line="92" selection-start-column="41" selection-end-line="92" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.78680205">
+          <caret line="100" column="56" selection-start-line="100" selection-start-column="56" selection-end-line="100" selection-end-column="56" />
           <folding />
         </state>
       </provider>
