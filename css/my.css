@@ -15,7 +15,9 @@ body {
   position: absolute;
   /*font-size:20px;*/
 }
-
+.codeBlock{
+    padding-left: 130px;
+}
 code {
   color: white;
 }
