@@ -2,7 +2,19 @@
 ! function($) {
 
     "use strict";
+    //button start
 
+    $('button').click(function() {
+        $(this).toggleClass('clicked');
+        $('button p').text(function(i, text) {
+            return text === "Lets' go!" ? "Let's go" : "Let's go!";
+        });
+        setTimeout(function(){
+            window.location.href = "me.html";
+        },1000);
+    });
+
+    //button end
     var Typed = function(el, options) {
 
         // chosen element to manipulate text
