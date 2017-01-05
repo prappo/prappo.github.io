@@ -419,7 +419,7 @@
     };
 
   $("#txt").typed({
-        strings: [ "am Programmer.","am Developer","am Bangladeshi food lover"],
+        strings: [ "am Programmer.","am Developer","am nobody"],
         typeSpeed: 50
       });
 
