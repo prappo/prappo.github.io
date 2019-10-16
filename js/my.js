@@ -4,13 +4,23 @@
     "use strict";
     //button start
 
-    $('button').click(function() {
+    $('#me').click(function() {
         $(this).toggleClass('clicked');
         $('button p').text(function(i, text) {
             return text === "Lets' go!" ? "Let's go" : "Let's go!";
         });
         setTimeout(function(){
             window.location.href = "me.html";
+        },1000);
+    });
+
+    $('#cv').click(function() {
+        $(this).toggleClass('clicked');
+        $('button p').text(function(i, text) {
+            return text === "Lets' go!" ? "Let's go" : "Let's go!";
+        });
+        setTimeout(function(){
+            window.location.href = "cv";
         },1000);
     });
 
